@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      
+        <title>大物甲二小测及回忆卷资源汇总</title>
+      
+      <link href="/2024/10/20/%E5%A4%A7%E7%89%A9/"/>
+      <url>/2024/10/20/%E5%A4%A7%E7%89%A9/</url>
+      
+        <content type="html"><![CDATA[<p>先整理我自己老师杨波老师的，后续有空去98上找找别的老师的。</p><h1 id="杨波"><a href="#杨波" class="headerlink" title="杨波"></a>杨波</h1><h2 id="第一次小测"><a href="#第一次小测" class="headerlink" title="第一次小测"></a>第一次小测</h2><div class="row">    <embed src="/pdf/大物/大物小测1.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浙江大学 </tag>
+            
+            <tag> 大学物理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>控制论——系统稳定性在政治经济领域的实例</title>
+      
+      <link href="/2024/10/20/%E6%8E%A7%E5%88%B6%E8%AE%BA/"/>
+      <url>/2024/10/20/%E6%8E%A7%E5%88%B6%E8%AE%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="系统中的稳定性在政治经济领域的实例"><a href="#系统中的稳定性在政治经济领域的实例" class="headerlink" title="系统中的稳定性在政治经济领域的实例"></a>系统中的稳定性在政治经济领域的实例</h1><p>这是自己控制论的pre，先传到这里当一个讲稿</p><h2 id="稳定性概述"><a href="#稳定性概述" class="headerlink" title="稳定性概述"></a>稳定性概述</h2><p>控制论中的稳定性主要讨论一个系统在面对外界干扰时是否能够回归到平衡状态。根据系统对扰动的反应，稳定性可以分为以下几种类型：</p><p><strong>渐近稳定性：</strong>系统在受到扰动后逐渐回到平衡状态。</p><p><strong>中立稳定性：</strong>系统在扰动后不回到初始状态，但会保持在新的状态上不发生更大的波动。</p><p><strong>不稳定性：</strong>系统在受到扰动后逐渐远离平衡状态，可能出现不受控制的变化。    </p><p>控制论的核心是通过反馈控制来维持系统的稳定性。负反馈有助于维持稳定性，比如当一个系统偏离平衡时，通过负反馈机制使其回到平衡。而正反馈则可能加剧系统偏离，导致不稳定。</p><h2 id="政治稳定性及实例分析"><a href="#政治稳定性及实例分析" class="headerlink" title="政治稳定性及实例分析"></a>政治稳定性及实例分析</h2><p><strong>负反馈与政治稳定：</strong>在一个稳定的政治系统中，负反馈机制往往表现为有效的政策调整和危机管理。当社会发生不满或抗议时，政府通过政策回应、公共服务改善、利益平衡等措施来调节社会矛盾。这种机制可以视为负反馈，帮助政治系统回归到平衡状态。</p><p><strong>正反馈与政治不稳定：</strong>正反馈机制可能加剧政治不稳定。当一个政治系统面对抗议时，如果政府采取高压手段而非缓解措施，可能会激化冲突，导致更多抗议和更大的社会动荡。这种情况可能会引发正反馈，导致系统逐渐偏离原来的平衡，最终出现更严重的政治危机，如政权更替或社会革命。<strong>但是事实上情况也未必，积极有效的正反馈机制也能使系统趋于稳定。</strong></p><p><strong>稳定性与自身韧性：</strong>政治系统的稳定性还与其自身的韧性有关。控制论中的稳定性分析可以帮助评估政治系统的抗压能力，即系统在受到扰动时能否快速回归平衡。政治体系的强大韧性往往源于包容性政策、广泛的政治参与和健全的制度框架；而脆弱的政治系统则可能因为权力集中、缺乏回应性而更容易陷入不稳定状态。</p><h3 id="cc98论坛实例"><a href="#cc98论坛实例" class="headerlink" title="cc98论坛实例"></a>cc98论坛实例</h3><p>导入干扰因素分析：</p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/fhbhzcps.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/2fyth2cs.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/5jeval0y.webp"></p><p>结合以上几个例子分析，可能对系统会引起扰动的因素主要为负面形象IP（包括但不限于标题党、挖烂坑、引战等）、发表性别对立和涉政敏感话题等。    而cc98论坛系统为了维持系统稳定性的也有许多反馈调节机制。</p><h4 id="版主、站务的管理"><a href="#版主、站务的管理" class="headerlink" title="版主、站务的管理"></a>版主、站务的管理</h4><p>按照版规和站规通过锁定、tp争议性负面IP来维护论坛稳定</p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/cqosd5ys.webp"></p><p>学习天地版主日常锁定有偿求助维护版面子系统稳定</p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/t4eu3kye.webp"></p><h4 id="论坛事务版面——用户间的监督"><a href="#论坛事务版面——用户间的监督" class="headerlink" title="论坛事务版面——用户间的监督"></a>论坛事务版面——用户间的监督</h4><p>通过论坛事务版面，用户对违规行为加以举报，再由站务组判定是否违规，使得论坛用户行为更加规范，达到负反馈调节，使得论坛系统趋于稳定。</p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/oxl2khd5.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/ba1wma2r.webp"></p><h4 id="风评系统——双刃剑"><a href="#风评系统——双刃剑" class="headerlink" title="风评系统——双刃剑"></a>风评系统——双刃剑</h4><p>cc98论坛存在风评机制，用户可以通过风评来表达对某一用户某一条发言的评价。风评系统存在多种不同使用方式，在不同使用方式下会形成不同的反馈机制，对系统的稳定性的影响也可能完全不同。</p><h5 id="①正反馈促进系统稳定"><a href="#①正反馈促进系统稳定" class="headerlink" title="①正反馈促进系统稳定"></a>①正反馈促进系统稳定</h5><p><img src="https://file.cc98.org/v2-upload/2024-10-20/wp0faeqe.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/51b5jrog.webp"></p><h5 id="②负反馈促进系统稳定"><a href="#②负反馈促进系统稳定" class="headerlink" title="②负反馈促进系统稳定"></a>②负反馈促进系统稳定</h5><p><img src="https://file.cc98.org/v2-upload/2024-10-20/bd2kz5t5.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-20/yh4hdoc1.webp"></p><p>在本例中，用户通过扣风评方式惩戒校园论坛内发布招聘软广的用户，起到了提醒其他用户的作用，也使得用户心中维护内网良好环境的观念得到强化。</p><h5 id="③正反馈使系统偏离稳定"><a href="#③正反馈使系统偏离稳定" class="headerlink" title="③正反馈使系统偏离稳定"></a>③正反馈使系统偏离稳定</h5><p><img src="https://file.cc98.org/v2-upload/2024-10-20/lexad021.webp"></p><p>本例中，通过对偏负面影响的发言加风评，引导其他用户扣风评，使得本不该有风评操作的帖子被扣大量风评或在风评区引发风评大战，都不利于系统的稳定。</p><h2 id="经济稳定性及实例分析"><a href="#经济稳定性及实例分析" class="headerlink" title="经济稳定性及实例分析"></a>经济稳定性及实例分析</h2><p><strong>经济调控与负反馈：</strong>在经济调控中，负反馈机制的典型例子是货币政策和财政政策。当经济过热时，中央银行可能提高利率以冷却经济，这类似于一种负反馈，帮助经济从膨胀状态恢复到平稳状态；当经济衰退时，则可能通过降低利率或增加政府支出来刺激需求。这样的负反馈机制能够使经济回归到增长与通胀的平衡点上。</p><p><strong>市场波动与正反馈：</strong>市场中的某些行为往往会引发正反馈效应，从而加剧不稳定。例如，金融市场中的投机行为可能会放大价格波动。当资产价格上涨时，投资者可能因为预期进一步上涨而大量购买，推高价格，形成泡沫；而当泡沫破裂时，抛售行为又会导致价格急剧下跌，最终引发市场崩溃。</p><p><strong>稳定性与系统性风险：</strong>控制论中的稳定性理论还可以用于分析经济系统的脆弱性和系统性风险。金融危机时，银行体系和金融市场的相互依赖性可能使得一个银行的失败引发连锁反应，类似于控制论中的正反馈链条，导致整个金融系统的不稳定。</p><h3 id="金元足球例子分析"><a href="#金元足球例子分析" class="headerlink" title="金元足球例子分析"></a>金元足球例子分析</h3><p>“金元足球”政策指的是一些足球俱乐部或国家通过大量资金投入，吸引高水平球员和教练，以迅速提高球队的竞争力和市场影响力的策略。这种策略在足球界产生了显著影响，尤其是在中国、欧洲和中东等地。但“金元足球”政策不仅仅对体育竞技有影响，它还可以从经济稳定性的角度进行分析，特别是其对俱乐部、联赛及更广泛的经济环境的冲击。</p><h4 id="中国金元足球"><a href="#中国金元足球" class="headerlink" title="中国金元足球"></a>中国金元足球</h4><p><img src="https://file.cc98.org/v2-upload/2024-10-20/afxrk4dx.webp"></p><p><strong>负反馈机制的缺乏：</strong>在金元足球模式下，中国俱乐部依赖于外部资本的持续投入来维持高薪支出和运营。当俱乐部投资者面临经济下行或政策变化时，比如国家开始限制对体育的过度资本投入，资金链条一旦断裂，俱乐部的经济困境就会暴露出来。由于缺乏长期的财政规划和青训体系的支撑，俱乐部在失去资金支持后，难以通过内部调整来恢复经济平衡，导致一系列的财政危机，从而使球队的财政系统失去稳定。</p><p><strong>不稳定性分析：</strong>金元足球在初期通过大量资金的注入，使得球队和联赛迅速繁荣，这类似于正反馈：外部资本投入提高了联赛水平，吸引了更多关注和商业机会，从而吸引更多投资。然而，这种增长是建立在外部资金持续流入的基础上，而非内生性增长。当政策突然收紧（如中国政府在2018年后对资本外流和体育投资的限制）时，资金链断裂导致俱乐部难以为继，最终出现破产、退出联赛等问题。这是典型的正反馈效应失控后的不稳定现象。</p><h4 id="欧洲金元足球"><a href="#欧洲金元足球" class="headerlink" title="欧洲金元足球"></a>欧洲金元足球</h4><p><img src="https://file.cc98.org/v2-upload/2024-10-20/w2qaxe13.webp"></p><p><strong>正反馈机制：</strong>这些俱乐部在金元足球的推动下，通过高额转会和巨额薪资吸引世界顶级球员，迅速提升了竞技水平和市场影响力，促进俱乐部经济系统的稳定。这种成功带来的是正反馈：成功的竞技表现带来了更多的球迷、赞助商和商业收入，进一步支持俱乐部的高投入。</p><p><strong>经济稳定性分析：</strong>尽管这些俱乐部在表面上实现了竞技和商业的双丰收，但依然面临潜在的经济不稳定风险，特别是当外部资金支持减少时。欧足联的“财政公平法案”（FFP）试图通过对俱乐部收支平衡的要求来引入负反馈机制，防止俱乐部通过无节制的外部资金注入来维持高额支出。然而，FFP的实际效果有限，许多俱乐部通过各种方式规避政策要求，继续高额投入。如果这些投资在未来中断，可能会导致俱乐部财政紧张，无法支撑高薪支出，进而影响竞技表现。</p><h4 id="金元足球政策总体来讲会让整个足球体系趋向不稳定"><a href="#金元足球政策总体来讲会让整个足球体系趋向不稳定" class="headerlink" title="金元足球政策总体来讲会让整个足球体系趋向不稳定"></a>金元足球政策总体来讲会让整个足球体系趋向不稳定</h4><p>1、缺乏足够的负反馈调节：采纳金元足球政策往往忽视了球队最根本的发展规律，忽视青训，急于求成，一旦投资下降或联赛财政政策改变，由于该子系统缺乏负反馈调节，往往使单支球队这个系统迅速趋向不稳定。</p><p>2、对单个子系统的正反馈机制不利于整个系统的稳定：单支球队通过金元足球政策在短期通过正反馈效应取得一定成绩和关注，会破坏整个足球系统的平衡性，使得小俱乐部的发展受到极大限制。竞争力弱的俱乐部往往通过摆大巴在面对强队时争平局，使得足球观赏性下降，不利于足球体系的整体稳定性。</p><p>3、足球并不是简单的十一个人的相加，需要团队配合和战术体系适配，投入资金购入大量球星会使更衣室不确定性因素增加，使得积极正反馈机制也下降，使单支俱乐部走向不稳定</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>将控制论的稳定性理论应用于政治和经济领域，能够更好地理解系统在外部冲击下的动态反应模式。通过分析负反馈和正反馈的作用，我们可以更清晰地认识到在面对危机时，政策和制度设计的重要性，以及如何通过调节机制来保持政治和经济的稳定性。同时，这种视角也提醒我们，稳定并不意味着一成不变，而是系统能够在变化中保持平衡和韧性。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浙江大学 </tag>
+            
+            <tag> 课程记录 </tag>
+            
+            <tag> 控制论 </tag>
+            
+            <tag> 系统稳定性分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>普化实验参考实验报告</title>
+      
+      <link href="/2024/10/20/%E6%99%AE%E5%8C%96%E5%AE%9E%E9%AA%8C/"/>
+      <url>/2024/10/20/%E6%99%AE%E5%8C%96%E5%AE%9E%E9%AA%8C/</url>
+      
+        <content type="html"><![CDATA[<p>分享一下普化实验报告~其实更多是自己的记录，毕竟看着写完的实验报告还是挺有成就感的！只找到了11份，记录完就扔掉啦！</p><h2 id="酸碱滴定-97分"><a href="#酸碱滴定-97分" class="headerlink" title="酸碱滴定  97分"></a>酸碱滴定  97分</h2><div class="row">    <embed src="/pdf/普化实验/酸碱滴定.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="乙酸解离度-96分"><a href="#乙酸解离度-96分" class="headerlink" title="乙酸解离度  96分"></a>乙酸解离度  96分</h2><div class="row">    <embed src="/pdf/普化实验/乙酸解离度.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="全透明工艺皂制备-94分"><a href="#全透明工艺皂制备-94分" class="headerlink" title="全透明工艺皂制备 94分"></a>全透明工艺皂制备 94分</h2><div class="row">    <embed src="/pdf/普化实验/全透明工艺皂制备.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="散利痛和百服宁薄层色谱分析-95分"><a href="#散利痛和百服宁薄层色谱分析-95分" class="headerlink" title="散利痛和百服宁薄层色谱分析  95分"></a>散利痛和百服宁薄层色谱分析  95分</h2><div class="row">    <embed src="/pdf/普化实验/散利痛和百服宁薄层色谱分析.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="阿司匹林合成-90分"><a href="#阿司匹林合成-90分" class="headerlink" title="阿司匹林合成  90分"></a>阿司匹林合成  90分</h2><div class="row">    <embed src="/pdf/普化实验/阿司匹林合成.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="三草酸合铁酸钾制备及光敏性分析-93分"><a href="#三草酸合铁酸钾制备及光敏性分析-93分" class="headerlink" title="三草酸合铁酸钾制备及光敏性分析  93分"></a>三草酸合铁酸钾制备及光敏性分析  93分</h2><div class="row">    <embed src="/pdf/普化实验/三草酸合铁酸钾制备及光敏性分析.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="茶叶中氟含量测定-93分"><a href="#茶叶中氟含量测定-93分" class="headerlink" title="茶叶中氟含量测定  93分"></a>茶叶中氟含量测定  93分</h2><div class="row">    <embed src="/pdf/普化实验/茶叶中氟含量测定.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="分光光度计测阿司匹林残留水杨酸-93分"><a href="#分光光度计测阿司匹林残留水杨酸-93分" class="headerlink" title="分光光度计测阿司匹林残留水杨酸  93分"></a>分光光度计测阿司匹林残留水杨酸  93分</h2><div class="row">    <embed src="/pdf/普化实验/分光光度计测阿司匹林残留水杨酸.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="果菜中维C含量测定-93分"><a href="#果菜中维C含量测定-93分" class="headerlink" title="果菜中维C含量测定  93分"></a>果菜中维C含量测定  93分</h2><div class="row">    <embed src="/pdf/普化实验/果菜中维C含量测定.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="量气法测气体摩尔体积-91分"><a href="#量气法测气体摩尔体积-91分" class="headerlink" title="量气法测气体摩尔体积  91分"></a>量气法测气体摩尔体积  91分</h2><div class="row">    <embed src="/pdf/普化实验/量气法测气体摩尔体积.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="电镀铜-92分"><a href="#电镀铜-92分" class="headerlink" title="电镀铜  92分"></a>电镀铜  92分</h2><div class="row">    <embed src="/pdf/普化实验/电镀铜.pdf" width="100%" height="550" type="application/pdf"></div><p>其他回忆卷98有很多，自己也有发，欢迎探索！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浙江大学 </tag>
+            
+            <tag> 普化实验 </tag>
+            
+            <tag> 实验报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>cc98记录</title>
+      
+      <link href="/2024/10/20/cc98%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/10/20/cc98%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="98历史"><a href="#98历史" class="headerlink" title="98历史"></a>98历史</h1><p><img src="http://file.cc98.org/v2-upload/2024-08-24/svptj14x.webp" alt="img"></p><p>先来个截图留念 —————— 互联网是有记忆的，点点滴滴构成了我在98的一年，以不完全的姿态回忆一下我在98的一年。 2023年8月19日，阴差阳错地不知从何种渠道（应该是高中学长发的本科新生指引吧）得知了真新生群（没错，我加了一些xhs引流卖卡的新生群），然后加到了98大群里面，才走上了正确的轨道上，激活了vpn，注册了cc98账号。因为我很怀念贴吧鼎盛时期的那种真正的论坛的感觉，所以98这个传统bbs界面是比较吸引我的。我在里面随便逛了逛，也没仔细看。然后查询了一下材化高和转专业的基本信息，但没有发帖。</p><p><img src="https://file.cc98.org/v2-upload/2024-08-24/wtludheu.webp" alt="img"></p><p>2023年8月28日，我要进行选课，凑巧98有选课答疑楼，我就在那里的主楼找到了很多资源，包括转专业，选通识课，体育课（啊啊啊这就不得不疑问为什么我明明把今年选课答疑楼发到我的群里面了怎么会有人连98账号都不注册啊！）。当然材化高新生群里面也有很多资源，感谢材化高的学长学姐们，尤其是伟大的savia学长。于此，我发表了第一个帖子，彼时的学习天地版主小爱姐姐在短时间内给我进行了答复，虽然没有提问米，但还是让我感受到了98的热情。我那天看了小爱姐姐很多帖子，从小爱姐姐的阳光头像和很多正能量的帖子，都在我心中对“学习天地”和学习天地的版主产生了很深刻的印象，未来如果有机会，希望能把学习天地一起建设好。</p><p><img src="https://file.cc98.org/v2-upload/2024-08-24/tegoemut.webp" alt="img"></p><p>也是在同一天，由于我一开始想转数学专业，所以我和辰幻前辈站短了很久，咨询了很多问题，还加上了辰幻前辈的微信。我本来以为加微信会有些冒昧，但是我发现98的前辈都很热心的！于是辰幻前辈成了我在98第一个私信的人。遗憾的是，由于我自己个人内心不坚决，加上我不懂可以通过补选来操作数学分析和高等代数，最终没有选择数学专业。现在看，这是一条未选择的路，或许我本来就不适合数学专业，但是我来浙大前最想读的确实就是数学专业。现在看私信的内容有点不礼貌啊救命。</p><p><img src="https://file.cc98.org/v2-upload/2024-08-24/dqq0xo4k.webp" alt="img"></p><p>2023年8月29日，98爆出史诗级别澄伊大瓜，我那会在军训，不怎么看十大的，但那天恰好看了，遂有幸留名神贴。并见证整个事件发展。从那时起我也开始关注十大，发现98整体讨论氛围还是比较自由的，毕竟大家是成年人，而且这里管控审核相对较少。</p><p><img src="https://file.cc98.org/v2-upload/2024-08-24/ocps00ov.webp" alt="img"></p><p>2023年9月20日，军训结束，开始上课一段时间，机缘巧合下决定尝试下匿名功能，遂发了第一条主题帖，<a href="https://www.cc98.org/topic/5700501%E3%80%82">https://www.cc98.org/topic/5700501。</a></p><p>平平无奇，但是也有挺多人在短时间回复我的，而且我对这个匿名功能越来越感兴趣，因为这样我连马甲都不用掩饰了。 </p><p>2023年9月24日，大晚上睡不着，想到亚运封路加918不鸣笛，非常不成熟地发了第二个主题帖，也就是这个帖子，【心灵之约】一些个人关于体育运动会的看法 <a href="https://www.cc98.org/topic/5704256">https://www.cc98.org/topic/5704256</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 结果大晚上的讨论度给我吓傻掉了，我紧急查看心灵之约版规，发现不能讨论时政，其实这贴严格来讲应该锁沉。还好这个讨论量没上十大，不然风评可能都要没了。 也是同一天，可能发现98讨论度还可以，就想着找找同好，发了第一条实名贴。【体育运动】高中看球回忆贴 <a href="https://www.cc98.org/topic/5705085">https://www.cc98.org/topic/5705085</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ </p><p>很可惜因为怕掉马已经编辑掉了，但是确实找到了很多球友，加到了看球群里面，虽然看起来成分可能有点杂。 然后后续这段时间，就是有问题就去提问，有足球就去体育运动分享，有内耗就发心灵之约或者郁闷小屋，逐渐抛弃了云朵朵，投入到98的怀抱来。 2023年10月18日，第一条热评（背景：余华老师来浙大引发黄牛事件），我当时构思了挺久想到了这么个评论，没想到真上热评了</p><p><img src="https://file.cc98.org/v2-upload/2024-08-24/y5tcff0s.webp" alt="img"></p><p>2023年10月21日，我被心灵版主锁掉了第一个帖子。【心灵之约】想看切尔西阿森纳的伦敦德比 <a href="https://www.cc98.org/topic/5727955">https://www.cc98.org/topic/5727955</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！ 我才发现98的管理还是相对比较严格的，自己也逐渐意识到要慢慢了解版规。 2023年10月25日，微积分小测后发了第一篇学习天地，【学习天地】有关微积分小测（沉） <a href="https://www.cc98.org/topic/5731238">https://www.cc98.org/topic/5731238</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！。 虽然最后觉得不妥沉掉了，而且其实我也直接套用的钉钉截图，但可能从那时起我就想着要学着前辈们多分享一些学习资源。 2023年10月28日，开了第一篇一路楼，是个看球一路楼，但是我为了学习其实作息相对健康，而且也无法边看球边记录，其实自己也看不懂很多战术，只能欣赏一些传球和射门罢了，所以最后弃坑了。 2023年10月31日，成年了</p><p>终于结束了每天的bd\cy生活。其实是从澄伊贴开始发现要500贴才能操作风评才开始疯狂水帖的，不过成年后水帖欲望就下降了，忘了第一个风评操作给谁了。不过我记得静水的第一个风评扣给了在缘分钉子户征友贴下面夹带私货科普的weatherman，这表明他识人不错</p><p>2023年11月19日，收获了第一个风评，是林中鹿前辈加给我的</p><p>还在这个贴子里认识了lling，虽然他之前在国足观赛的时候就回复过我了，但我记得他是那天关注我的，所以后来才慢慢熟起来的</p><p>【体育运动】足球人的一些碎碎念 <a href="https://www.cc98.org/topic/5754805">https://www.cc98.org/topic/5754805</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！ 2023年11月21日，发了一个回忆向足球贴，本来想冲一下十大的，但很可惜没上，但是lling在里面回复地很认真，开始留意这个大一小登了</p><p>【体育运动】没记错的话，今天应该是卡塔尔世界杯一周年吧 <a href="https://www.cc98.org/topic/5755851">https://www.cc98.org/topic/5755851</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 2023年12月2日，水到1000贴了</p><p>【似水流年·暑假】不知不觉水到了1000贴 <a href="https://www.cc98.org/topic/5765740">https://www.cc98.org/topic/5765740</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 也是在同一天，发现有好多冷门的版面，在温版发了个贴。谁能想到这个小登未来会申版主呢</p><p>【金瓯白鹿城（温州）】好奇有多少温州人关注了这个版面并且在水98 <a href="https://www.cc98.org/topic/5765834">https://www.cc98.org/topic/5765834</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 2023年12月3日，第二条学习天地资源</p><p>然后才发现是会发米的，感觉像一种荣誉勋章，很开心</p><p>【学习天地】2023-2024年秋冬线代第二次小测（回忆）（tag:线性代数，线代，线代小测） <a href="https://www.cc98.org/topic/5766448">https://www.cc98.org/topic/5766448</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 2024年新年，开了真正意义上的一路，不过是不允许大家回复的，方便我隐藏一些内容 【一路走来】2024年每日学习生活记录（个人向日记） <a href="https://www.cc98.org/topic/5789958">https://www.cc98.org/topic/5789958</a> 复制本链接到浏览器或者打开【CC98】微信小程序查看~ 然后就到考试周了，这才发挥了98的强大，也吃到了很多考试周大瓜</p><p><strong>&#x3D;&#x3D;【To be continued】&#x3D;&#x3D;</strong></p><h1 id="记录一下在98认识的好友"><a href="#记录一下在98认识的好友" class="headerlink" title="记录一下在98认识的好友"></a>记录一下在98认识的好友</h1><table><thead><tr><th align="center">ID</th><th align="center">相识</th><th align="center">是否见过面</th><th align="center">印象</th></tr></thead><tbody><tr><td align="center"><a href="https://www.cc98.org/user/id/734630">@lling</a></td><td align="center">体育运动版面</td><td align="center">是</td><td align="center">阳光开朗大男孩，阿森纳球迷，外表高冷，内在逗比幽默，偏内向，但是在网上不够小心谨慎，有时候没有保护好自己。</td></tr><tr><td align="center"><a href="https://www.cc98.org/user/id/732531">@haaaaaland</a></td><td align="center">体育运动版面</td><td align="center">是</td><td align="center">比较外向，铁杆浙江球迷，转专业的同路人，希望继续支持国足</td></tr><tr><td align="center"><a href="https://www.cc98.org/user/id/727719">@马二马纯上</a></td><td align="center">似水流年寒假水楼</td><td align="center">是</td><td align="center">好高，真身长九尺，为人很热情友善，在网上又偏小心谨慎，很严谨，大部分情况能做到言出必随。第一次见面也是他组织的，社会实践无压力找人拍照carry了此环节</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cc98 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>瑞中拓印</title>
+      
+      <link href="/2024/10/20/%E7%91%9E%E4%B8%AD/"/>
+      <url>/2024/10/20/%E7%91%9E%E4%B8%AD/</url>
+      
+        <content type="html"><![CDATA[<h1 id="遵从内心，做最真实的自己"><a href="#遵从内心，做最真实的自己" class="headerlink" title="遵从内心，做最真实的自己"></a><strong>遵从内心，做最真实的自己</strong></h1><p>在一次夜跑中突然想起来瑞中的下课铃，写拓印的情绪遂到达顶峰。由于本人语文水平和文笔实在有限，以前看到拓印各种诗意和有文采的标题和小标题是写不来一点。按照惯例，自我介绍和报分数环节，也应该是最后一次这样自我介绍了，我是来自2004的林亨，选科物生技，高考总分670，位次4556，语文107，数学143，英语首考二考考出两次129，物理98，生物98，技术95（首考93），现就读于浙江大学。本人实在文笔水平有限，起不出文艺的小标题。</p><h2 id="学习经验的分享"><a href="#学习经验的分享" class="headerlink" title="学习经验的分享"></a>学习经验的分享</h2><p>首先是语文，语文虽然高考考差了，但是还是有一些可说的。新高考全国卷语文的题型分别是社科文、现代文阅读、文言文阅读、古诗阅读、语基和作文。需要准备一本笔记本按题型分别整理答题模板和一些答题注意点和策略，策略五三时其实都有，可以供参考；答题模板需要根据真题的答案去细细品味。补充一句，越到后期，高考真题越是重要，模拟题普遍存在诸多零零散散的问题，真题虽然也有争议，但是对于学生水平的考察还是较为客观可信的。然后作文的话，除了要注重例子名言的积累，各种高分作文论证方法和思路的学习（如概念阐释）也是很有必要的，也要利用好年段的资料，比如我们当时是读了《刘擎现代西方哲学讲义》，对于当时我写道理论证的帮助是很大的。</p><p>其次是数学，数学其实主要就是练好基础，考试前（指高考）回归课本真的是很有必要的，有一些不引人注意少考的概念都是需要关注的，比如残差是哪个减哪个，椭圆长轴是a还是2a等等。在拓印上看到过一句经典的话，数学考不了高分，是因为把时间用在了不该做的题上而该做的题又没有保证做对。所以，面对我们当时的导数压轴题，我除了极值点偏移、同构等一些最常规的题弄懂会做之外，对于一些较难的不等式证明选择全部放弃，考试中就是随便写一点骗一点分。基本上，我们当时的模拟考试，除了圆锥曲线和导数大题，别的大题应该是都要拿满分的。然后多出来的时间我会重新检查一下常规的单选，有时间再去做一下多选和填空压轴，大家客观题一定要控制在50-60分钟之内，否则后面写大题的时间会比较赶。一般来说，我第一次写多选的时候，遇到难题都是直接单走，回过头来写有时候就突然有思路了（仅限个人，大家第一次就写出来是最好的，只是不要死磕）。其实我在初中是一名狂热的数学爱好者，但是到了高中由于不愿做竞赛题和参加培优而逐渐躺平，对于数学的爱也消失了。但是，最终凭借数学做题经验和本身的数学思维，同样考了高分，不热爱数学并非不能考高分。所以大家在看到一些佬狂写教辅上的竞赛题和三一强基题时，其实内心不用过分在意，相信自己不做这些，一样能把高考考好。由于我个人是确确实实会受到这些影响的，但是最后的结果是好的，所以希望有类似经历的人可以共勉。</p><p>再然后是我的选科物生技。其实我选择物理都是出于一种奇怪的心态，高一的时候十分懵懂，对于物理充满了恐惧，但最后出于高考的专业选择依然选择了物理。我的物理学习经历也是磕磕绊绊，高一分班后物理基本上一直在倒数，有时还考到过及格线边缘，我那时一直在想要不要换选科（历生技），后来是怎么和解的我也不大清楚。不知何时到了某个时间节点，对于物理的恐惧消失了，我将所有遇到过的模型（物理生应该很清楚这个词）都记录在笔记本上，并在且对于实验题一次又一次犯过的错误总结起来，并起名为——实验题血的教训。在厘清物理题大部分做题的基本模型后，整体的物理思维逐渐变得清晰起来，到后面就会发现物理学是一门逻辑多么清晰的学科。在此赞美我高三的戴凤国老师，可能有人质疑戴老师每节课前重复书写的板书，但是那些板书在增强课堂趣味性的同时也确实帮助我构建了物理学科的知识体系，可能这样的教学方法真的是比较适合我这样学习物理的学生的（别问，问就是宇宙第一世界第一的审画找解）。虽然如此，但由于对于压轴题实在能力有限，所以高三时模拟考基本上还是赋分都在90边缘，但至少对于一些基础熟悉的模型可以做到轻车熟路了。而首考，很幸运遇上了一张难度平平，较重视基础的首考卷，在细心做完除了压轴题之外的所有题后，又用10分钟仔细地检查选择题和实验题，最后考出的98也是远超预期了。</p><p>生物的话，主要还是多看书，多做真题。如果你可以像王小娜老师轻松地说出知识点在哪本书的左边还是右边的话，考试一定是没有问题的。多多关注选三生物工程的答题思路（尤其是从题干获取信息的题），遗传题多多练习应该就够了。</p><p>最后是我被克制的技术。我信息技术一直学的还行，高考信息技术也是做了满分，但是仍然毫无意外地被通用技术背刺，所以最后高考成绩也是一个不高不低的95。由于通用技术很多方案筛选和设计题的题很注重常识，所以本人做这种题一次次被暴击，老师讲完也搞不懂的那种；再其次三视图是没有一点的空间想象能力，也一次次栽在这里；难的电控更是写不出来了。但你要说通用技术学习方法，还是有一些可讲的。首先就是整理设计题的模型，考试画不出来的时候画最符合题目要求的模型，再注重下连接，尺寸认真标，6分拿3、4分是完全没问题的；然后整理电控所有模型，此点参照物理，比如三极管自锁、触发器、振荡电路等等，对做题还是很有帮助的。</p><h2 id="一些对自己高中生活的审视"><a href="#一些对自己高中生活的审视" class="headerlink" title="一些对自己高中生活的审视"></a>一些对自己高中生活的审视</h2><p>其实我一直是一个比较矛盾的人。正如前文所提，我很容易受到他人影响。比如高三时，中午不在教室学习的人可能不到10个，而我一直是其中之一。我一直很担心会被同学利用这些碎片时间超过，再加上段长和班主任一直给压力，我也曾因此去过教室学习或在寝室写作业。但是当我发现我完全无法适应教室写作业后睡觉的状态导致第一节课毫无精神后，并在室友的开导下最终得以毫无压力地中午回寝室好好午休和快乐聊天。在此感谢我的室友，高三时，别的寝室都是空的，但我们寝却每天都有5人快乐聊天与探讨哲学及各类话题，当然到点后大家都是会午休的。事实证明，在寝室午休会获得更好的下午学习状态（当然如果你能适应写完作业趴着睡觉当我没说），我只是想说没必要因为别人比你多学的这半个多小时而感到恐惧。这一点其实很重要，也是我起这个标题的原因。</p><p>矛盾的另一个点就是高三一直在犹豫要不要参加三位一体和高校强基。因为那时对自己的高考成绩并没有足够的信心，甚至有种如果浙大去不了该去哪里的迷茫，再加上各方面的综合因素，最终迷迷糊糊地报了浙大的三一，当然专业结果出来后倒是坚决地选择了放弃确认。我只想说大家对于未来要走的路一定要遵从自己内心的选择，千万不要受到包括同学、父母和老师在内的影响，本人就是不适合三一强基体质只适合高考裸考体质，所以不要强求自己，因此花费额外的时间和经历。</p><p>然后就是考前焦虑。高二时因为考前焦虑让本该物政全A的学考考出两个B，对此我一直都不愿意和别人聊起学考，尤其是班级里物理可能只有3个B的情况下，一直是一个很自卑的心理。但事实上如果你不参加省内三位一体的话，学考的用处几乎为0，省外三位一体学考占分是极其小的。到后面，逐渐把考试看成一场场玄学的测验，并且自信地认为分数并不反映我的实力，只会影响我的心情，所以后面对考试的紧张感就下降了。当然，高考前还是毫无意外地失眠了，不过这完全不影响发挥。</p><p>还有就是我的好学生心态，这个词是我在《看天下》看到的，我觉得比较符合我。因为剖析自己的内心，一直学习的原因就是为了有更好的排名和分数，让自己在同学和家人面前更加体面，而不愿做一些违背自己好学生形象的一事。然而违背好学生形象，并不代表着叛逆，追求一些自己喜欢的东西本来就没有错。就比如，高一高二我的假期作业永远都是按时完成，而且是会牺牲挤压自己休息时间完成的程度，就可能一个假期可能并没有快乐地玩过，但我此前从未思考过假期作业的质量和假期作业的意义，我在高一高二甚至觉得这真的是一种弯道超车的手段。但是现在我只觉得假期时做到劳逸结合更加重要，甚至逸大于劳，要敢于直面父母不理解的眼光，用自己的成绩来证明在学校上课学习的时间更重要。包括高三时我也是这么做的，甚至最后敢于偷偷在周日自习课看拓印和各种杂志，以及没有跑操必去桥下踢球，卡点到晚自习。这些在之前的我看来都是不符合我自己好学生形象的，但是做了这些事后真的在缓解压力的同时丰富了自己的高中生活，增添了美好的回忆，但是我目前仍然无法彻底摆脱好学生心态，至于此心态的利与弊，只能由自己来衡量了。</p><h2 id="一些瑞中人的美好回忆"><a href="#一些瑞中人的美好回忆" class="headerlink" title="一些瑞中人的美好回忆"></a>一些瑞中人的美好回忆</h2><p>  依然怀念养正书屋进书后抢着去买《足球周刊》收集球星卡和海报，虽然20一本真的好贵，但它真的是我高中为数不多的快乐了。我们班看杂志和报刊的氛围还是不错的，一本《看天下》，传完整个教室；新的《环球时报》到了，和同学讨论国际时事热点事件。</p><p>如果你有在下午后在桥下踢球的习惯，那么你一定和我踢过球，但是碍于本人的社恐属性并没有因此认识一些朋友；如果你曾在二楼食堂看过世界杯的集锦或者在三楼食堂看过九点场的直播，那么你也一定见过我。我对于足球是属于特别狂热的喜爱，自18年俄罗斯世界杯开始看球。高三期间，首考任务很紧，晚自习写不完作业也要跑去看这四年一次的足球盛宴。感觉卡塔尔世界杯期间在瑞中的看球体验可能会让卡塔尔世界杯成为我一生都难以忘记的一届世界杯，真的是青春的美好回忆。首考前10几天阳了的我，还顶着高温重温阿根廷夺冠庆祝的视频和比赛集锦，或许我一部分考试的精神来源也是从中汲取的。</p><p>关于食堂，此前本人高一高二时一直早中晚都吃二楼，二楼食堂的菜确实是挺好的；但是高三快走的时候开始疯狂探索一三楼食堂。早餐吃了一次一楼的煎饼果子后就忍不住吃一次又一次，当时想着毕业前要把所有的菜吃一次，但是最终仍然没能实现。</p><p>永远怀念那段因为一个共同目标而努力的日子，那段只需要考虑自己学习的日子。大学生活虽自由，但高中却更纯粹，尤其是遇到的同学。如果有来生，依旧想做一名仰望星空、脚踏实地的瑞中人。</p><h2 id="一些照片"><a href="#一些照片" class="headerlink" title="一些照片"></a>一些照片</h2><p><img src="https://s2.loli.net/2024/10/20/xJwMVSmBvzj8kUf.jpg"></p><p><img src="https://s2.loli.net/2024/10/20/sLmxOBZRweia4SA.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 瑞中余韵 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 瑞安中学 </tag>
+            
+            <tag> 高中生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>电路与电子技术实验记录</title>
+      
+      <link href="/2024/10/19/%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/10/19/%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<p>是在王旃老师班做的，主要用于个人总结。实验报告仅供参考！！！数据不可copy！！！</p><h1 id="实验1-直流电压、电流和电阻的测量"><a href="#实验1-直流电压、电流和电阻的测量" class="headerlink" title="实验1  直流电压、电流和电阻的测量"></a>实验1  直流电压、电流和电阻的测量</h1><p>做这个实验的时候我的老师还是熊素铭老师，体验极差。老师对面包板的特性讲的极不清楚，但是对学生测量的要求又异常严格，下课要求排队签字。在本次实验中我未意识到电压、电流源不能接在一个格子里，老师对电表准确度讲的也非常不仔细，给后续多次实验实物埋下了伏笔。</p><div class="row">    <embed src="/pdf/电路实验/直流电压、电流和电阻的测量.pdf" width="100%" height="550" type="application/pdf"></div><h1 id="实验2-电路元件特性曲线的伏安测量法和示波器观测法"><a href="#实验2-电路元件特性曲线的伏安测量法和示波器观测法" class="headerlink" title="实验2  电路元件特性曲线的伏安测量法和示波器观测法"></a>实验2  电路元件特性曲线的伏安测量法和示波器观测法</h1><p>这个实验体验还算可以，至少电路搭建方面没有出问题，伏安法很快测量了该测的数据，提早下课走了。伏安法和示波器分开做的，示波器有助教帮助，体验较好，且两次实验写一次报告。不过特性曲线图要求手画。</p><div class="row">    <embed src="/pdf/电路实验/电路元件特性曲线的伏安测量法和示波器观测法.pdf" width="100%" height="550" type="application/pdf"></div><h1 id="实验3-基于MWORKS仿真软件的二极管伏安特性仿真"><a href="#实验3-基于MWORKS仿真软件的二极管伏安特性仿真" class="headerlink" title="实验3  基于MWORKS仿真软件的二极管伏安特性仿真"></a>实验3  基于MWORKS仿真软件的二极管伏安特性仿真</h1><p>不能算电路实验，算一个电脑实验。助教带着做的，助教教的很仔细，不过我坐最后一排，很多细节听的不是特别清晰。但助教人很好，帮我解决了。</p><div class="row">    <embed src="/pdf/电路实验/基于MWORKS仿真软件的二极管伏安特性仿真.pdf" width="100%" height="550" type="application/pdf"></div><h1 id="实验4-含源一端口网络的等效参数和外特性测量"><a href="#实验4-含源一端口网络的等效参数和外特性测量" class="headerlink" title="实验4   含源一端口网络的等效参数和外特性测量"></a>实验4   含源一端口网络的等效参数和外特性测量</h1><p>第一次实验埋下的回旋镖，把电压源给搞短路了还以为是自己元件问题。实验本身不难，但是是倒数第二个走的，做完是有一点沮丧的。</p><div class="row">    <embed src="/pdf/电路实验/含源一端口网络的等效参数和外特性测量.pdf" width="100%" height="550" type="application/pdf"></div><h1 id="实验5-交流无源一端口网络阻抗测量"><a href="#实验5-交流无源一端口网络阻抗测量" class="headerlink" title="实验5  交流无源一端口网络阻抗测量"></a>实验5  交流无源一端口网络阻抗测量</h1><p>第一个交流实验，用到220V电压的时候是有点危险的，要注意安全。这次就有同学短路后造成东三整栋楼停电。在自己电路搭建不熟练的情况下三角形数据并没有完全测完就开始讲示波器了。手忙脚乱的一次。示波器操作不熟练，感谢助教帮我，加上我这台示波器跟别的同学不太一样，我没有同桌，别人进度又都比我快，给我打击极大。两种示波器方法做是都做了，但是第二种没做成功，误差太大了，也不知道原因。做完emo了很久，怀疑自己能不能学好工科。</p><div class="row">    <embed src="/pdf/电路实验/交流阻抗参数测定.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浙江大学 </tag>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 课程记录 </tag>
+            
+            <tag> 电路实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>大学物理实验课记录</title>
+      
+      <link href="/2024/10/19/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E8%AF%BE%E8%AE%B0%E5%BD%95/"/>
+      <url>/2024/10/19/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E8%AF%BE%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<p>开这样一篇文章主要是实验课的体验对我来说有一些糟糕，希望通过总结来提升，也对后人有所帮助。</p><h2 id="选课注意事项："><a href="#选课注意事项：" class="headerlink" title="选课注意事项："></a><strong>选课注意事项：</strong></h2><div class="row">    <embed src="/pdf/2024-2025秋冬学期大学物理实验选课表.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="我的课表及学习情况："><a href="#我的课表及学习情况：" class="headerlink" title="我的课表及学习情况："></a><strong>我的课表及学习情况：</strong></h2><table><thead><tr><th align="center">实验名称</th><th align="center">老师</th><th align="center">报告得分</th><th align="center">上课体验</th><th align="center">注意事项</th></tr></thead><tbody><tr><td align="center">交流电功率因数实验与弗兰克赫兹实验</td><td align="center">陶前</td><td align="center">88</td><td align="center">1、最简单最养生的实验，实验内容非常非常轻松，但是代价是双倍实验报告。2、老师有一些求是，要求比较严格</td><td align="center">弗兰克赫兹实验要用逐差法处理数据，否则会像我一样低分</td></tr><tr><td align="center">用霍尔法测直流圆线圈与亥姆霍兹线圈磁场</td><td align="center">郑远</td><td align="center">92</td><td align="center">1、实验内容也很简单，没有难度。2、老师讲课很清晰，手把手教你做实验</td><td align="center">在实验室需要尽早做，否则数据会受到别人线圈磁场的影响</td></tr><tr><td align="center">非平衡电桥</td><td align="center">王立刚</td><td align="center"></td><td align="center">实验本身不难，但我在接线时和测量阶段出现了失误。</td><td align="center">测量阶段如果错过了低温时电阻的测量不要紧，升温后多测几组高温的数据就可以了</td></tr><tr><td align="center">惠斯登电桥</td><td align="center">王立刚</td><td align="center"></td><td align="center">实验很简单，操作难度低</td><td align="center">不确定度的计算要好好听老师讲</td></tr><tr><td align="center">用双臂电桥测低电阻</td><td align="center">王立刚</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">普朗克常数</td><td align="center">陶前</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">空气密度测定</td><td align="center">肖婷</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">金属材料测杨氏材料模量</td><td align="center">邱东江</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">万用表设计</td><td align="center">郑远</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">光的偏振应用研究</td><td align="center">柴万力</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">光速测量</td><td align="center">张俊香</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">声速测定</td><td align="center">肖婷</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">分光计的调整和使用（必做实验）</td><td align="center">殷立明</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">示波器的应用（必做实验）</td><td align="center">张建华</td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><h2 id="我的实验报告"><a href="#我的实验报告" class="headerlink" title="我的实验报告"></a>我的实验报告</h2><p>前两份报告没有记录。只放数据处理、误差分析和思考题，供自己留档：</p><h3 id="1-惠斯登电桥"><a href="#1-惠斯登电桥" class="headerlink" title="1.惠斯登电桥"></a>1.惠斯登电桥</h3><p><img src="https://file.cc98.org/v2-upload/2024-10-22/4hjonatt.webp"></p><p><img src="https://file.cc98.org/v2-upload/2024-10-22/qudoy4jp.webp"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 浙江大学 </tag>
+            
+            <tag> 大物实验 </tag>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 课程记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>基于hexo与github博客搭建方法和butterfly主题渲染资源汇总</title>
+      
+      <link href="/2024/10/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <url>/2024/10/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<p>主要参考了hzming前辈的个人博客：</p><blockquote><p>基本思路是软件安装+主题配置的思路，一些参考资料如下：</p><p>搭建个人博客网站 <a href="https://mubu.com/doc/5OeZGO2XKgh">https://mubu.com/doc/5OeZGO2XKgh</a></p><p>如何使用Hexo搭建个人博客 <a href="https://blog.csdn.net/qq_38695100/article/details/136577256?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-136577256-blog-136575449.235">https://blog.csdn.net/qq_38695100/article/details/136577256?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-136577256-blog-136575449.235</a></p><p>Hexo+Github：个人博客的搭建 <a href="https://www.bilibili.com/video/BV16b4y1G7fo/?spm_id_from=333.337.search-card.all.click&vd_source=08af59d628d4d6d7788604a21fc95761">https://www.bilibili.com/video/BV16b4y1G7fo/?spm_id_from=333.337.search-card.all.click&amp;vd_source=08af59d628d4d6d7788604a21fc95761</a></p><p>butterfly安装文档 <a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></p><p>hexo魔改 | 添加 Valine 评论系统 <a href="https://blog.csdn.net/DaphneOdera17/article/details/138255181">https://blog.csdn.net/DaphneOdera17/article/details/138255181</a></p><p>作者: hzming1999<br>链接: <a href="https://hzming1999.github.io/2024/05/30/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/">https://hzming1999.github.io/2024/05/30/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/</a><br>来源: hzming1999’s blog</p></blockquote><p>butterfly主题的渲染我还参考了<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p><p><a href="https://blog.csdn.net/mjh1667002013/article/details/129290903">【Hexo】Hexo搭建Butterfly主题并快速美化_hexo butterfly-CSDN博客</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程代码 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>Hello World</title>
+      
+      <link href="/2024/09/08/hello-world/"/>
+      <url>/2024/09/08/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程代码 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>2023-2024春夏学期课程总结</title>
+      
+      <link href="/2024/06/29/2023-2024%E6%98%A5%E5%A4%8F%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/"/>
+      <url>/2024/06/29/2023-2024%E6%98%A5%E5%A4%8F%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a><strong>写在前面</strong></h1><p>大一秋冬的课程总结：<a href="https://www.cc98.org/topic/5805315/1#1">https://www.cc98.org/topic/5805315/1#1</a> 既然秋冬立了flag，那么春夏也来写一写吧。春夏由于转专业的决心坚定了之后，成绩相比于秋冬有了一定提升，虽然仍然有一些遗憾，但仅从最终成绩上来看，春夏学期的最终结果是比较良好的。为了避免写成纯粹的查老师一样的老师评价，决定将对老师的上课体验和学习体验分开。 老样子，先列一列大一春夏所有的课： </p><p><strong>一、通识必修课程</strong> </p><p>1、自然科学通识类：微积分（甲）II、大学物理（甲）I、普通化学（乙）、普通化学实验（乙） </p><p>2、外语类：大学英语IV </p><p>3、思政军体类：军事理论、新中国史、形势与政策I </p><p>4、创新创业类：职业生涯规划 </p><p><strong>二、专业基础课程</strong> </p><p>常微分方程 </p><p><strong>三、体育课</strong> </p><p>乒乓球（初级）+身体素质课 </p><p><strong>四、通识选修课程</strong> </p><p>经济法理论与实务</p><h2 id="微积分（甲）II-5-0学分-92-4-8"><a href="#微积分（甲）II-5-0学分-92-4-8" class="headerlink" title="微积分（甲）II   5.0学分   92&#x2F;4.8"></a><strong>微积分（甲）II   5.0学分   92&#x2F;4.8</strong></h2><p><strong>课程老师</strong>：陈锦辉 </p><p><strong>课程分数构成</strong>：平时作业20%+两次小测20%+期中20%+期末40%</p><p> <strong>老师上课体验</strong>：陈锦辉老师是一位非常非常好的老师，上课讲的非常清晰，而且老师上课说过他讲的内容是高于考试难度的，也确实看得出来老师ppt干货特别多，非常值得仔细琢磨上面的例题。不过陈锦辉老师对到课率也是有一定执念的，除了两次小测必要的点名外，还有两次签到，而且都是二维码点名，对于智云选手不是很友好，但是老师后来好像都让没签上的同学下节课来补签了。老师每周都会在钉钉里面补充题目，这些题目难度高于微积分考试的难度，但是做一下的话对个人提升还是比较大的。老师还很致力于维护好钉钉群的讨论氛围，鼓励同学们群里探讨问题而非私戳。总之，老师讲课逻辑很清晰，有深度，ppt也很好（但是不上传，不过可以用zju-learning智云一键下载），与秋冬学期的卢兴江老师比较，个人感觉陈锦辉老师更胜一筹，蒙民伟楼上硬课的体验不太好也是另一个原因。老师始终强调分数不是全部，还多次在上课强调生命安全和学术严谨，在我看来是一位不错的老师。 </p><p><strong>课程学习体验</strong>：个人甲二的成绩比甲一提高了很多（其实总评也就5分，但直接升了两个档），一方面可能是受益于陈锦辉老师上课内容深度的提升，另一方面也可能是甲二题型思路更加固定化，不像甲一解一个不定积分或者证明数列收敛可能需要用到很多技巧，二重积分、三重积分和线面积分的解题思路都是比较固定的。所以某种程度上甲二应该要比甲一容易。微积分学习依赖于上课学习和课后习题以及历年卷刷题还是可以搞定的。好像有不少同学这次期末考的不太好，可能是期末更加侧重计算有关，而且填空题答案错就是全错，可能造成了许多同学的滑坡。 </p><p><strong>资源</strong>：【学习天地】继上学期的部分，分享一下自己编写的微积分学习讲义（上+下册） <a href="https://www.cc98.org/topic/5908471">https://www.cc98.org/topic/5908471</a>  【学习天地】微甲 第二次小测复习 <a href="https://www.cc98.org/topic/5894234">https://www.cc98.org/topic/5894234</a>  【学习天地】vjf第一次小测复习 <a href="https://www.cc98.org/topic/5862417">https://www.cc98.org/topic/5862417</a>  历年卷可参考路老师公众号 路老师的nonsense collection</p><h2 id="大学物理（甲）I-4-0学分-85-3-9"><a href="#大学物理（甲）I-4-0学分-85-3-9" class="headerlink" title="大学物理（甲）I  4.0学分   85&#x2F;3.9"></a>大学物理（甲）I  4.0学分   85&#x2F;3.9</h2><p><strong>课程老师</strong>：陶向明 </p><p><strong>课程分数构成</strong>：考勤10+平时作业10+四次小测20+期中20+期末40 </p><p><strong>老师上课体验</strong>：陶向明老师查老师评分为7.9，其实上下来感觉老师讲的挺清晰，上课也挺有激情，唯一的不足可能就是重点不太突出，然后略带一点口音，我至今不知道老师是如何用普通话表达赋分的</p><p>另一方面感觉ppt上公式符号和书上习惯的不太一样，ppt数学公式有些没处理好，不知道是老师自己不上心还是其他问题，然后老师可能有些地方会有自己的一些想法，比如让我们把热力学第二定理改成Q&#x3D;E+W，然后对外做功取正，感觉这个属实没什么必要，而且一时改变传统的计算习惯很难接受。然后小测的话，公平性还行，老师会强调隔位就坐，小测都会提前通知。点名的话，还是比较多的，基本雷达点名，但是迟到可以补签。给分的话，大物小测赋分一直被诟病，但感觉陶老师给分还行（？），我四次小测64（第一次不太适应）+82+95+95最后平时分只扣了2分。总之，感觉没有查老师说的这么多雷点，总体还是一位好老师 </p><p><strong>课程学习体验</strong>：大物的话，其实就是跟着老师学就行了，小测前要好好复习，要看看老师ppt上的一些题目，好像xxp老师ppt上的题比较好，或许可以参考。课后题目还是要搞搞懂，这次期中题目还是比较抽象的，考的不是特别好，全校的成绩普遍都比较低。但是期末就正常了许多，面向历年卷复习即可，几乎每一道小题都能在历年卷找到原题。不过自己这课最后由于很多原因还是卡绩了，对均绩影响还是很大的</p><p><strong>资源</strong>：<a href="https://savia7582.github.io/Exterior/Physics/">https://savia7582.github.io/Exterior/Physics/</a> savia学长的大物讲义</p><h2 id="普通化学（乙）-2-0学分-99-5-0"><a href="#普通化学（乙）-2-0学分-99-5-0" class="headerlink" title="普通化学（乙） 2.0学分   99&#x2F;5.0"></a>普通化学（乙） 2.0学分   99&#x2F;5.0</h2><p><strong>课程老师</strong>：厉刚 </p><p><strong>课程分数构成</strong>：考勤10+平时作业20+小测（共6次，取四次最高）20+期末50 </p><p><strong>老师上课体验</strong>：首先说明我高中时没有选化学，在学这门课之前一直担心学不好甚至挂科，还好在这个学期时间还算够，也可能是因为转专业退掉了一些课的原因，所以在春学期花了大量时间在这门课上，最后也是意外地拿了满绩，说明非化学选考生普化乙考一个好的分数还是很可能的。厉刚老师上课还是讲的很好的，加上我每节课前看ppt预习，所以上课相对轻松。小测的话都是比较基础的选择题（5分钟），且跟往年重合度较大，可参考。平时作业可以对完答案交，考勤的话一共五次雷达点名。老师上课上的还是挺好，对于没有化学基础的学生基本上也能够听懂，然后老师人也很好，多次问他问题都很耐心地解答。然后给分应该也是挺捞的，选普化乙应该首选lg老师。 </p><p><strong>课程学习体验</strong>：对于非化学选考生来说，感觉有必要过一遍高中物质结构那本书，基本概念搞搞懂，其实认真学相对还是好应付的，没有想象中这么可怕，然后把厉刚老师发的模拟卷题目都搞懂，知识点主要看ppt，仅靠记忆的内容还是能拿很多分的。然后挺意外的，大学第一门满绩居然是高中最害怕的化学。 </p><p><strong>资源</strong>：【学习天地】2023-2024春学期lg老师普化（乙）资料 <a href="https://www.cc98.org/topic/5876021">https://www.cc98.org/topic/5876021</a> 【学习天地】【普化乙】2023秋学期普通化学（乙）笔记与资料 <a href="https://www.cc98.org/topic/5757371">https://www.cc98.org/topic/5757371</a> </p><h2 id="普通化学实验（乙）-1-5学分-87-4-2"><a href="#普通化学实验（乙）-1-5学分-87-4-2" class="headerlink" title="普通化学实验（乙） 1.5学分   87&#x2F;4.2"></a>普通化学实验（乙） 1.5学分   87&#x2F;4.2</h2><p><strong>课程老师</strong>：陈晨 </p><p><strong>课程分数构成</strong>：平时70+期末30 </p><p><strong>老师上课体验</strong>：老师很年轻，上课对理论部分讲的很详细，也会认真指导实验，讲到哪里理论考会考都会强调，虽然今年理论考大变样，但最后给分也还行？不知道大家的情况如何……值得一提的是我中间稍稍社死了一次，蓝图制作那次实验选了个赵今麦的图片晒，然后老师问这张照片是谁的，说“选的很好，但是感光液现在还没洗干净”，于是全班都知道那张照片是我的了</p><p><strong>课程学习体验</strong>：也由于高中没有选化学，相关化学仪器的操作都不大熟练，实验原理都一知半解，每次做实验前都要跟我的搭档对着讲义懵逼5分钟，也导致最后实验数据都不是特别好。但是助教姐姐还是很好的，会积极帮忙。然后这课其实还挺有意思的，能自己做肥皂，晒蓝图等等。唯一难受的是实验报告，1.5学分的课实验报告手写量都快比上5学分的微积分了。考试的话，由于今年大变样，应该不能再纯粹面向历年卷复习了</p><p><strong>资源</strong>：【学习天地】【普化实验（乙）】23-24冬普通化学实验（乙）实验报告及复习笔记 <a href="https://www.cc98.org/topic/5806855">https://www.cc98.org/topic/5806855</a> 【学习天地】普化实验(乙)实验报告 <a href="https://www.cc98.org/topic/5830973">https://www.cc98.org/topic/5830973</a>  【学习天地】2023-2024春夏普化实验（乙）回忆卷 <a href="https://www.cc98.org/topic/5914116">https://www.cc98.org/topic/5914116</a>  【学习天地】普通化学实验（乙）&#x2F;普化实验（乙）复习笔记 <a href="https://www.cc98.org/topic/5910996">https://www.cc98.org/topic/5910996</a> </p><h2 id="大学英语IV-3-0学分-86-4-2"><a href="#大学英语IV-3-0学分-86-4-2" class="headerlink" title="大学英语IV   3.0学分   86&#x2F;4.2"></a>大学英语IV   3.0学分   86&#x2F;4.2</h2><p><strong>课程老师</strong>：周颂波 </p><p><strong>课程分数构成</strong>：大学英语的课程分数构成，与以往不同的是，今年平时分比例提高，多了5分慧学外语分和5分上课表现分，期末降低为50%</p><p> <strong>老师上课体验</strong>：非常好的大英老师啊，现在我已经是周老师的粉丝一枚了</p><p>老师上课的ppt是有很多干货的，虽然我没记住多少，但至少会让英语课有一些收获。然后老师本人说明自己是i人，不会强制要求大家发言，但是是在真心鼓励大家发言，小组pre也不是强制性的，只在五一假期布置了一次二选一的pre作业。老师上课主要会讲解很多重难句的翻译，可以帮助理解课文，也提升翻译水平。然后老师小测和作文都是自己改，会写评语！给出针对性的建议。不过要注意的是周老师上课是不允许用手机的，但是其实也是督促你更好学习。 </p><p><strong>课程学习体验</strong>：正如前辈所言，大英课其实并不期望你学到什么，而是让你每周抽出一些时间强制学习英语。针对听力阅读，其实我本人并不是太好，通过上课也很难提升，听力阅读的经验去外语学习版面或者学习天地版面应该能得到很多经验贴。我们能做的就是背好大英课上的单词和理解课文，保证期末考试时与单词有关的分尽量不丢。 </p><p><strong>资源</strong>：<a href="https://www.cc98.org/topic/5482641">https://www.cc98.org/topic/5482641</a>         </p><p> <a href="https://www.cc98.org/topic/5636709">https://www.cc98.org/topic/5636709</a> </p><p>大英默写器：<a href="https://eng.zjueva.net/">https://eng.zjueva.net/</a></p><h2 id="军事理论-2-0学分-87-4-2"><a href="#军事理论-2-0学分-87-4-2" class="headerlink" title="军事理论   2.0学分   87&#x2F;4.2"></a>军事理论   2.0学分   87&#x2F;4.2</h2><p><strong>课程老师</strong>：沈莉萍 </p><p><strong>课程分数构成</strong>：考勤5+论文55+期末40 </p><p><strong>老师上课体验</strong>：说来惭愧，军理课只有前三节是在教室里上的，后期基本上是智云或者干脆没上。一方面是本人对军事不感兴趣，另一方面是出于卷绩点的需求希望能在别的课上多花一点时间。slp老师的优点是没有小测，数字点名（大写写黑板，让人很安心），然后给分的话平时分一律给满，除非你期末考考的特别好 </p><p><strong>课程学习体验</strong>：没有认真听课，考试前因为准备大物也没有好好复习，虽然是开卷，但是两个小时时间还是很紧的，想要好一点绩点的话还是要考前训练一下翻书能力的，精确制导那里考的很多，应该要考前熟悉一下。然后习强军思想老师发的那本讲话稿看起来是没什么必要印了，至少这次考试上面的一道都找不到。98祖传的那本目录最重要了。听说这门课将改闭卷，不知是否保真 </p><p><strong>资源</strong>：【学习天地】23-24春夏《军事理论》个人感受&#x2F;经验总结&#x2F;部分题回忆（军理回忆卷） <a href="https://www.cc98.org/topic/5922335">https://www.cc98.org/topic/5922335</a>  【学习天地】我和我的那些思政课（思修、马原、形策、史纲、军理、习概、毛概） <a href="https://www.cc98.org/topic/5508985">https://www.cc98.org/topic/5508985</a> 这个帖子有98祖传目录</p><h2 id="新中国史-1-5学分-89-4-5"><a href="#新中国史-1-5学分-89-4-5" class="headerlink" title="新中国史  1.5学分  89&#x2F;4.5"></a>新中国史  1.5学分  89&#x2F;4.5</h2><p><strong>课程老师</strong>：赵晖 </p><p><strong>课程分数构成</strong>：考勤30+读书报告30+论文40 </p><p><strong>老师上课体验</strong>：赵晖老师讲的很好，声音很雄厚，思想也很深刻。人也很好，可以找他改论文，老师还专门找时间与我通话向我提修改建议。对点名也很宽松，基本上两节课后能走一半人，可肝可水 </p><p><strong>课程学习体验</strong>：不好意思写这个了，因为基本上带着微积分作业去的所以其实听的并不是很认真。</p><h2 id="形势与政策I-1-0学分-95-5-0"><a href="#形势与政策I-1-0学分-95-5-0" class="headerlink" title="形势与政策I  1.0学分  95&#x2F;5.0"></a>形势与政策I  1.0学分  95&#x2F;5.0</h2><p><strong>课程老师</strong>：陶甄 </p><p><strong>课程分数构成</strong>：考勤20+pre和一次调研30+期末50 </p><p><strong>老师上课体验</strong>：形策课基本上根据大类预置，基本上也不会有人换老师。每节课点名。陶老师的课任务相对轻松，调研报告交一个pdf即可，从我个人情况看给分还挺好？（从来没想过自己会满绩）也可能是幸存者偏差。 </p><p><strong>课程学习体验</strong>：形策课由于1学分+单双周上课+两学期的课导致他并不被重视，当然也不期望能从中学到什么东西，大家把他当成一个时事新闻获得的渠道即可。由于是闭卷，还是需要复习的，大致面向历年卷复习即可，亲测可以考前一天速成满绩（当然需要一定的记忆功底）。选择题的话要注意和往年比较今年热点，像今年就考了亚运会和新质生产力。 </p><p><strong>资源</strong>：【学习天地】2023-2024春夏形势与政策I回忆&amp;98形策资料汇总 <a href="https://www.cc98.org/topic/5916059">https://www.cc98.org/topic/5916059</a> </p><h2 id="职业生涯规划-1-5学分-89-4-5"><a href="#职业生涯规划-1-5学分-89-4-5" class="headerlink" title="职业生涯规划 1.5学分  89&#x2F;4.5"></a>职业生涯规划 1.5学分  89&#x2F;4.5</h2><p><strong>课程老师</strong>：王璐莎 </p><p><strong>课程分数构成</strong>：简历10+考勤20+采访20+小组展示50 </p><p><strong>老师上课体验</strong>：非常好的宝藏老师，这是王老师第一次开课，老师查老师也没有评分，但是这是我一个同学的道法老师，所以根据信息差选上了她，最后老师的课60人也只有24个人选哈哈，大家普遍不太敢开盲盒。老师还是比较尊重同学的，不强制同学发言，最伟大的一点是老师知道事实上我们不能从职规课上学到什么所以把课程组要求的生涯规划报告取消了。给分最后也是挺好的，老师挺反内卷的，期末的时候也让我们互评时都打高分 </p><p><strong>课程学习体验</strong>：职规课其实并不能学到什么东西，主要就是了解一些有关职业选择和就业网站的基本知识，所以放心水过去了</p><h2 id="常微分方程-1-0学分-93-4-8"><a href="#常微分方程-1-0学分-93-4-8" class="headerlink" title="常微分方程 1.0学分  93&#x2F;4.8"></a>常微分方程 1.0学分  93&#x2F;4.8</h2><p><strong>课程老师</strong>：林智 </p><p><strong>课程分数构成</strong>：作业20+小测30+期末50</p><p><strong>老师上课体验</strong>：老师讲的还可以，但是因为少了一次课的原因讲的略快，然后重点不太突出，很多例题都没有展开讲。老师最后一节课讲的实例其实对于考试来说意义不大，但整体没有什么雷点，看查老师上说可能给分比较求是。 </p><p><strong>课程学习体验</strong>：工科ode的内容较少，基本就是背公式刷题即可，考前速成问题也不大。</p><p><strong>资源</strong>：这位前辈的网站非常全面，唯一要注意的就是少了刘维尔方程。<a href="https://shrike505.cc/notes/MathematicsAndPhysics/ODE/">https://shrike505.cc/notes/MathematicsAndPhysics/ODE/</a></p><h2 id="乒乓球（初级班）-1-0学分-86-4-2"><a href="#乒乓球（初级班）-1-0学分-86-4-2" class="headerlink" title="乒乓球（初级班） 1.0学分  86&#x2F;4.2"></a>乒乓球（初级班） 1.0学分  86&#x2F;4.2</h2><p><strong>课程老师</strong>：陈锋 </p><p><strong>课程分数构成</strong>：体育课的分数构成 <strong>老师上课体验</strong>：很好的老师，不仅教会我乒乓球，还教会我养生之道，1000m前还给我们拍照。每次上课前看到笑眯眯的陈锋老师心情都变好了。老师的pyq也很有文采。老师人很好，有问题都可以跟他交流，生病请假还会在群里给你建议</p><p><strong>课程学习体验</strong>：可能是我太菜了的原因，一个学期下来乒乓球技术仍然是小白水平，而我的球伴本身水平就比我高，导致两个人打得都不是特别开心。考试是正手攻球，一分钟60个满分，我只打了51个，陈锋老师喂的比正式考试乒协同学好一些，所以最后就直接拿了和陈锋老师打的成绩。不过零基础选乒乓球还是可行的，专项分不会太差。只不过由于本人体测成绩不是特别好，所以春夏学期的体育课成绩肯定是要比秋冬低的</p><h2 id="身体素质课-0学分"><a href="#身体素质课-0学分" class="headerlink" title="身体素质课 0学分"></a>身体素质课 0学分</h2><p><strong>课程老师</strong>：林时云 </p><p><strong>老师上课体验</strong>：极水，愿意摸鱼几乎无运动量，想水可选</p><h2 id="经济法理论与实务-1-5学分-95-5-0"><a href="#经济法理论与实务-1-5学分-95-5-0" class="headerlink" title="经济法理论与实务 1.5学分  95&#x2F;5.0"></a>经济法理论与实务 1.5学分  95&#x2F;5.0</h2><p><strong>课程老师</strong>：周黎明 </p><p><strong>课程分数构成</strong>：合同40+期末60 </p><p><strong>老师上课体验</strong>：经典事少分高的通识课了，老师人很好，上课金句段子频出，在欢快的氛围中学习到了实用的经济法知识</p><p><strong>课程学习体验</strong>：和军理相同，没有在这门通识课上花特别多的时间，所以不过多叙述了。开卷的资料要打印的有：民法典的变化ppt、新公司法ppt，剩下的书里基本上能找到，mooc里有很多原题，考前带着答案打印了一次简直血赚</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 课程总结 </tag>
+            
+            <tag> 浙江大学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>2023-2024秋冬学期课程总结</title>
+      
+      <link href="/2024/01/09/2024-2024%E7%A7%8B%E5%86%AC%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/"/>
+      <url>/2024/01/09/2024-2024%E7%A7%8B%E5%86%AC%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a><strong>写在前面</strong></h1><p>看到98一些前辈都有写课程总结的一些传统，本人虽然在这学期学的有起有落，但最终也算是把这学期所有的课都修完了，这几天出分也快出完了，所以也想着自己写一写课程总结，也向其他同学提供一些心得与资料。第一次在学习天地写长文分享课程学习心得，难免会有做不好的地方，希望前辈虚心指教。同时也希望自己能在每个学期后都坚持写课程总结，既是为后来者铺路，也是对自己的一份交代。<br>此外，本人均绩目前4.18，最多是中等偏上的水平，所以提供的心得感想都是以我个人视角来写的，可能无法与学习能力较强的大佬比较。<br>先列一下大一第一个学期所有的课：<br><strong>一、通识必修课程</strong><br>1、自然科学通识类：微积分（甲）I、线性代数（甲）<br>2、外语类：大学英语III<br>3、思政类：思想道德与法治、中国近现代史纲要<br>4、计算机类：计算机科学基础（A）<br><strong>二、专业基础课程</strong><br>工程图学<br><strong>三、体育课</strong><br>舞龙舞狮+身体素质课<br><strong>四、通识选修课程</strong><br>1、诺贝尔奖与生命健康<br>2、博弈论基础<br>3、大学写作-自然</p><h2 id="微积分（甲）I-5-0学分-87-4-2"><a href="#微积分（甲）I-5-0学分-87-4-2" class="headerlink" title="微积分（甲）I  5.0学分   87&#x2F;4.2"></a><strong>微积分（甲）I  5.0学分   87&#x2F;4.2</strong></h2><p>课程老师：卢兴江<br>课程分数构成：平时作业考勤+小测+期中考+期末考<br>课程感想：卢老师真的是一位非常非常好的老师，很有幸在大一就遇上了这么好的老师。卢老师讲课深入浅出，也很关心学生，中间有一次发烧向他请假他也会及时回复消息并让我好好休息。对于微积分的学习最后的分数，其实是心有不甘的，期中只考了79分，差不多平均分水平，印象中自己写的挺好，除了压轴不太会其他感觉挺有把握，总感觉不至于就这么点分，但可能是计算出了点问题吧。期末也遇上了简单的试卷，卷面估计85左右。总体来看，自己投入到微积分的时间也并未格外的多，自己自高中以来一直采取扎实基础的策略的方法来学习数学学科，也深知自己在数学学科对待压轴题能力有限，这些是需要额外花时间去攻克的，但是我没有花这个时间，最后的压轴证明题自然也是写不出来。如果要追求更高绩点的话，如4.5往上，或许需要更加细心，也需要额外花一点时间攻克难题。<br>课程资料：自己有买吉米多维奇，但是时间太少没有仔细看。楼下若有更好资料可以补充。历年卷都在路老师的公众号里了<br>前辈的学习方法<br>【学习天地】【学习实践】如何学习微积分、线性代数、大学物理等自然科学通识课程？ <a href="https://www.cc98.org/topic/5754991">https://www.cc98.org/topic/5754991</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！</p><h2 id="线性代数（甲）-3-5学分-88-4-2"><a href="#线性代数（甲）-3-5学分-88-4-2" class="headerlink" title="线性代数（甲）   3.5学分    88&#x2F;4.2"></a><strong>线性代数（甲）   3.5学分    88&#x2F;4.2</strong></h2><p>课程老师：徐林荣<br>课程分数构成：mooc+平时作业考勤+三次小测+期末考<br>课程感想：首先徐林荣老师是一位非常认真负责且讲课非常细致的老师。老师每节课后都会有补充资料和公式整理，也会及时提醒同学们完成mooc，避免不必要的分数损失。但是老师上课语速偏慢，且有时候讲的过于细致，就比如一些显而易见的计算过程老师也不会省略的，会一步一步写出来，这样固然有优点也会有缺点，优点是很清楚，缺点是容易让人走神。后半段我选择了不去教室上课听智云的方式，感觉就我个人效率比在教室略高。徐老师也把跟总评有关的分数都通过学在浙大发送给我们了，这样是比较好的，能清楚知道自己各阶段得分。至于三次小测，我考的成绩都比较偏中等，第9节和第10节习题课难度也不大一样，不清楚是否有分开赋分，我最后赋了90分，可以看出老师应该是捞了。期末考试卷难度也和往年相比大差不差，自己考的分数也算是正常发挥。<br>总的来看，根据98上对线性代数课程评价，都是偏抽象，在学之前我也很担心能否把他学好。所以相比微积分我个人认为我在这门课是投入了额外多的时间的。我先是看了3B1B的线性代数本质视频，这对我理解一些基础的概念还是很有帮助的，因为学校线性代数教材更偏向于学完线性代数的人来学。然后我还买了吉米多维奇，虽然没有时间看完，但对我的解题技巧还是起到了一定帮助。<br>附上3B1B的链接和我自己的一些其他资料供大家参考。<br>【【官方双语&#x2F;合集】线性代数的本质 - 系列合集】 <a href="https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&vd_source=c80ecc61dd717f546382f9e086a73369">https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&amp;vd_source=c80ecc61dd717f546382f9e086a73369</a><br>个人整理的第三次小测<a href="https://www.cc98.org/topic/5787718">https://www.cc98.org/topic/5787718</a><br>个人回忆的第二次小测<a href="https://www.cc98.org/topic/5766448">https://www.cc98.org/topic/5766448</a><br>历年卷<a href="https://www.cc98.org/topic/5691463">https://www.cc98.org/topic/5691463</a><br>助教心得及资料<a href="https://www.cc98.org/topic/5795312">https://www.cc98.org/topic/5795312</a><br>23-24回忆卷【学习天地】【23-24秋冬】线性代数（甲）期末回忆（部分待补充）（tag：线代、2023-2024） <a href="https://www.cc98.org/topic/5805167">https://www.cc98.org/topic/5805167</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！</p><h2 id="大学英语III-3-0学分-80-3-6"><a href="#大学英语III-3-0学分-80-3-6" class="headerlink" title="大学英语III       3.0学分    80&#x2F;3.6"></a>大学英语III       3.0学分    80&#x2F;3.6</h2><p>课程老师：朱晨晨<br>课程分数构成：大学英语的分数构成<br>课程感想：首先朱晨晨老师也是一位比较好的老师，对她的第一印象是她和我一也喜欢看美综TAR，而且看得出来老师好像也是足球球迷甚至上课提到过黄健翔老师。在她的英语课可水可肝，朱晨晨老师对作业要求比较低，不占平时分也不会刻意检查，老师甚至觉得词汇掌握了可以不用写课后题。但是老师上课也比较依赖英语水平较高的同学。导致她的课虽然有很多内容，比如英语辩论、观看视频后的话题讨论、圣诞节互换礼物，但是我的英语口语水平过低导致无法较好地参与其中，我课上基本上就是在背课本上的单词和看课文，导致我一学期下来对单词的掌握还是比较熟的，两次小测分数也都还可以。但是大英这门课要拿高绩点更看重从小到大的英语基础，比如期末考的听力和阅读绝对是拉分大项，我去问了老师我的细分，词汇题包括比较难的15选10自己做的都还可以，但是听力阅读两题就直接被扣了17分，而我的期末总分是76。自己确实没有在听力阅读方面训练加强自己（老师上课也没有多加练习这方面），最后艰难总评卡上了80也算是幸运，希望下学期能在听力阅读方面有进一步的突破吧。<br>资料：book2单词汇总<a href="https://www.cc98.org/topic/5787601">https://www.cc98.org/topic/5787601</a><br>学习方法：<a href="https://www.cc98.org/topic/5482641">https://www.cc98.org/topic/5482641</a><br>                 <a href="https://www.cc98.org/topic/5636709">https://www.cc98.org/topic/5636709</a></p><h2 id="思想道德与法治-3-0学分-89-4-5"><a href="#思想道德与法治-3-0学分-89-4-5" class="headerlink" title="思想道德与法治    3.0学分    89&#x2F;4.5"></a>思想道德与法治    3.0学分    89&#x2F;4.5</h2><p>课程老师：董扣艳<br>课程分数构成：志愿者+现场教学+读书报告+小组展示+期末开卷考<br>课程感想：董老师真的是超级无敌好老师，即使是早八的课也会让人不想水课，而且真的是希望我们在这样一门看起来比较水的德法课里学到东西的，每节课都有视频分享，最后一堂课还有划重点+视频总结。最激动的是作为铁杆足球迷在有一节早八课上看贺炜老师解说金句真的好开心哈哈。然后的话老师课上任务都是非常轻的，志愿者只要求照片不要求小时数，读书报告不超过1500字反内卷拒绝恶竞，也不会特意给发言的人加平时分增加发言的压力，老师是真心希望在小组展示时能提供一个较好的讨论氛围的，选题也是非常非常有意思。最后一节课，老师告诉我们她其实已经怀孕6个月了，我们都很震惊，但是下一秒她说的却是：“不好意思，因为身体原因所以我一直坐着上课。”真的被她感动哭了，很负责任很敬业也很善良的老师，祝老师查老师评分早日收敛到10吧。</p><h2 id="中国近现代史纲要-3-0学分-84-3-9"><a href="#中国近现代史纲要-3-0学分-84-3-9" class="headerlink" title="中国近现代史纲要    3.0学分    84&#x2F;3.9"></a>中国近现代史纲要    3.0学分    84&#x2F;3.9</h2><p>课程老师：孙冲亚<br>课程分数构成：口述史+课程论文+小组展示课本剧表演+期末开卷考<br>课程感想：孙老师是新老师，首先孙老师的上课和备课是没有问题的，就是趣味性有点低，听的会略显无聊，而史纲课又是在周五，于是我后期课上基本上在写周四线性代数的作业。但是孙老师课上的事情略多，别的老师好像有网课可以水，但孙老师却是比较硬核的口述史和课程论文，这两个自己也都比较认真地去写了，可以看出老师应该认真看了，给分也是比较求是的。然后是小组展示，由于老师要求是要拍一个视频展示，有幸分到了一个会剪视频的很nice的组员，然后组长任务排的也都还可以，最后成片效果出乎意料地好还受到了老师表扬，只是在这上面耗费了两个周末时间排练+拍摄有些心疼。然后小组展示是同学互评的，可能会有恶竞的存在。然后老师上课的平时分也是严格按照发言来给的，个人不是很喜欢这种为了发言而发言的发言，但为了平时分还是硬着头皮发言了一次。期末开卷把中国共产党的“三大历史决议”理解错了，整道题答偏，估计老师给分也很求是，这个总评分数从求是的角度看也是十分合理的。</p><h2 id="计算机科学基础（A）-2-0学分-90-4-5"><a href="#计算机科学基础（A）-2-0学分-90-4-5" class="headerlink" title="计算机科学基础（A）    2.0学分    90&#x2F;4.5"></a>计算机科学基础（A）    2.0学分    90&#x2F;4.5</h2><p>课程老师：李峰<br>课程分数构成：上课考勤+PTA平时作业+三次小测+期中考+期末考<br>课程感想：李峰老师讲课也是完全没有问题的，在上新课前还会复习上一节课的内容，这一点难能可贵，有时间也会分析平时作业的题目。这门课学的主要就是计算机一些硬件软件知识、python基础和一些算法。lz恰逢浙江省信息技术改革，而我是浙江省技术选考生，可以说这门课的绝大多数内容我都在高中学过了，所以我上课没有特别认真在听。但是期中考那块，office三剑客和常用工具软件让我很慌，那一块用一堆视频来代替讲课私以为不太合理，尤其是有些视频老师不配音很难坚持看下去也很难捕捉到重点[ac01]所以我采取了98获取资料与刷题库的方式来复习期中考。最后的期末考，大家有关注朵朵的话可能也关注到了一些事情，李峰老师确实是强调过编码题不太可能会考，但是考试的时候编码的材料是给出来的，要解题是完全没有问题的，虽然计算量和难度是有点大，但我认为这不是攻击出卷老师的理由。不过可能lz作为技术选考生确实是有一定基础和优势存在，至少对于python和二进制编码那块还是很熟悉的，所以期末考对于我个人而言还是中规中矩只是计算量偏大，但如果lz没有学过技术，对于这样的卷子可能确实很难下手。<br>课程资料：这门课以后不开了，似乎就没有再放课程资料的必要了。</p><h2 id="工程图学-2-5学分-87-4-2"><a href="#工程图学-2-5学分-87-4-2" class="headerlink" title="工程图学    2.5学分    87&#x2F;4.2"></a>工程图学    2.5学分    87&#x2F;4.2</h2><p>课程老师：黄长林<br>课程分数构成：平时作业+期中考+solidworks上机考试+期末考<br>课程感想：黄长林老师有着求是林的称号，所以在他手上拿到了一个上4的绩点还是比较满意的。首先你不得不否认黄老师的讲课水平是极高的，尽管语速偏慢，但是他对如何画图的方法讲的很细致，分步骤来教我们，甚至还能在他课上学到别的老师不教的solidworks。由于lz是浙江省技术选考生，对三视图有一定基础，但是高中对于三视图的补线一直是很头疼，可以说根本没拿过分。上这门课前又听说了可怕的挂科率，所以一开始是比较担心挂科的。但是仔细上下来发现，工程图学与高中通技相比，侧重的不是空间想象，而是形体分析，而我跟着黄长林老师形体分析的方法，也逐渐领悟了画图的技巧，当然更要感谢本专业SAVIA学长提供的很细致的工图辅导讲义 ，所以最后是把这门课学好了，最后期末考应该是上80了，算是非常不错的结果了。另外黄老师的求是还体现在不调平时分，平时作业画错比较多黄老师是可能直接打60分的，所以在画完之后对完答案再交可能会是一个比较好的选择。然后老师期末卷子也都是自己改的，助教甚至没有活干。当然如果真的很担心挂科的话预置到黄长林老师还是建议换老师吧，老师真的是非常求是的<br>课程资料：<br>【学习天地】【大学物理Ⅱ&#x2F;大物Ⅱ】【工程图学&#x2F;工图】知识点整理&#x2F;例题讲解&#x2F;笔记分享&#x2F;历年卷 <a href="https://www.cc98.org/topic/5794032">https://www.cc98.org/topic/5794032</a> 复制本链接，打开【CC98】微信小程序，直接查看本帖！<br>分享了一个文件(夹)给你：【图学基础教程习题解答】，点击链接查看<a href="https://pan.zju.edu.cn/share/0471cbb0d4073099ffe4dc512e">https://pan.zju.edu.cn/share/0471cbb0d4073099ffe4dc512e</a> 访问密码：cc98myhome</p><h2 id="舞龙舞狮-1-0学分-91-4-5"><a href="#舞龙舞狮-1-0学分-91-4-5" class="headerlink" title="舞龙舞狮    1.0学分    91&#x2F;4.5"></a>舞龙舞狮    1.0学分    91&#x2F;4.5</h2><p>课程老师：姜凯<br>课程分数构成：体育课的分数构成<br>课程感想：舞龙舞狮课真是选到就是赚到啊，上课是比较轻松比较水的，运动量很小，姜凯老师也很和蔼、善良以及幽默。不过姜凯老师也是比较严格的老师，你上课不认真不好好学动作他会直接批评的，但是你练好了他又会恢复很幽默的状态。上课前半段是小游戏，还是挺有意思的，“速度与激情”这个游戏印象极为深刻，其实是个翻扑克牌记忆排序的游戏[ac01]后半段是舞龙的基本动作练习，通过训练还是能熟练掌握好的，除了做龙舟的时候对于要背人的同学可能确实是有点难的[ac01]最后的专项测试是编排剧本表演，很有幸遇到了一个能组织能干活的组员，被她带飞了，她一人肝完了剧本，排练一些事情也都是她来组织的（为此牺牲了三个周末晚上的时间是有点心痛的），但最后专项没有失误完美落幕，拿下96的专项分。lz被扣的分都是身体素质分，没办法身体素质真的太差了，引体向上0分，12分钟跑拼死拼活最后跑了2500米[ac42]最后总评91.45实现极限卡绩[ac01]总之舞龙舞狮课是一门好课，欢迎大家去选！</p><h2 id="身体素质课-0学分"><a href="#身体素质课-0学分" class="headerlink" title="身体素质课    0学分"></a>身体素质课    0学分</h2><p>这应该没有写的必要吧</p><h2 id="诺贝尔奖与生命健康-1-5学分-83-3-9"><a href="#诺贝尔奖与生命健康-1-5学分-83-3-9" class="headerlink" title="诺贝尔奖与生命健康    1.5学分      83&#x2F;3.9"></a>诺贝尔奖与生命健康    1.5学分      83&#x2F;3.9</h2><p>课程老师：帅亚俊<br>课程分数构成：平时考勤+课程论文+小组展示<br>课程感想：大一上的第一门通识课，这是一门新开的课，可能很多前辈没有听过或上过。首先听课程内容的名字他就是比较水的，但是帅老师讲课和备课还是比较认真的，也比较幽默风趣。但是帅老师的通过提问和发言来卷平时分考勤的方式我个人还是不太喜欢，不想提一些奇奇怪怪很偏的问题来为难小组展示的同学。课程论文第一次写没有什么经验，参考资料没有在正文引用，内容也跟自己小组展示做的ppt差不多，可能因此拿不到一个较好的分数，当然自己对待这门课的态度也值得这个分，毕竟上课一直在写作业。出分后甚至去发了条心灵（可能是大一学生特有的焦虑吧）</p><h2 id="博弈论基础-1-5学分-89-4-5"><a href="#博弈论基础-1-5学分-89-4-5" class="headerlink" title="博弈论基础    1.5学分      89&#x2F;4.5"></a>博弈论基础    1.5学分      89&#x2F;4.5</h2><p>课程老师：蒋文华<br>课程分数构成：八次线上小测+讨论发贴+博弈论模型总结+红包小游戏总结+线上期末考试<br>课程感想：这是一门网红课，三墩镇赌场名不虚传，但是由于我是98赌场常客，深知赌博的可怕，所以课上的红包小游戏没有投一分真金白银，但是老师返还红包以及同学买分时的红包抢到了很多，算是大赚一笔了[ac01]课上还是很有意思的，蒋老师讲的幽默风趣，但是蒋老师的风评确实不是很好，这我就不评价了。自己确实对博弈论比较感兴趣，所以没有在水课。查老师上评价事情多，但是自己一学期下来感觉还好，八次小测每个只有四道题，如果上完课及时做的话完全不多（但是如果把ddl都拖到期末周确实会很崩溃），题目基本上都是ppt上的和他上课提到的，但是小测还是要认真做，因为错一题总评就扣一分[ac42]然后交上去的作业博弈论模型98和知乎上有整理，自己可以参考。期末考试的话40分钟40道题有一点赶的，老师讲的计算题一定要会，因为网上找不到，别的题要么ppt上有，要么是他上课提到过的，认真听课肯定能写的出来。预估分应该在92分以上，因为我的讨论帖被蒋老师点赞有加分，但是最后由于正态被调到了89，不过对于我来说确实是一门好课，有兴趣的同学可以去选。<br>课程资料：知乎<a href="https://zhuanlan.zhihu.com/p/354659292">https://zhuanlan.zhihu.com/p/354659292</a></p><h2 id="大学写作-自然-1-5学分-91-4-5"><a href="#大学写作-自然-1-5学分-91-4-5" class="headerlink" title="大学写作-自然    1.5学分      91&#x2F;4.5"></a>大学写作-自然    1.5学分      91&#x2F;4.5</h2><p>课程老师：陈越骅+魏艳<br>课程分数构成：400字小作文+1500字议论文+线上线下讲座+读书笔记+科普论文<br>课程感想：私以为大学写作课还是太水了，不知道是老师的问题还是课的问题，总之老师课上讲的都是一些对于写作很笼统又老生常谈的东西，甚至我听课的收获还没有这篇98学姐的如何教小白写论文的帖子收获大<a href="https://www.cc98.org/topic/5700327%E3%80%82">https://www.cc98.org/topic/5700327。</a></p><p>以至于我上大课的时候一直在写作业。冬学期到了小班，海洋学院的魏艳老师上课内容更像是海洋导论，不像是侧重教你如何写作的一门通识课。但由于我不拖ddl的特点每次第一个交作业好像让魏艳老师记住了我，她对我的论文评语也都是比较正面的。魏艳老师也是比较负责任的，论文都是亲自看过还有详细地批注，也有点评，做的还是比较好的。总结下来就是，如果不是培养方案要求在博雅技艺中必修大学写作的，建议是不要选了，真的无法学到对写作有帮助的东西，而且对高中写作基础一般的同学不太友好。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 课程总结 </tag>
+            
+            <tag> 浙江大学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
